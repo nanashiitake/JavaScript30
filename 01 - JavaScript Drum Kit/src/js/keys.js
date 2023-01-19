@@ -4,7 +4,7 @@ let memes = [
         "key": 'Q',
         "bgImage": '',
         'quote': 'go away yeonjun',
-        "sound": ''
+        "sound": '1.wav'
     },
     {
         "id": 1,
@@ -25,41 +25,41 @@ let memes = [
         "key": 'A',
         "bgImage": '',
         'quote': 'beach ??',
-        "sound": ''
+        "sound": 'beach.mp3'
     },
     {
         "id": 4,
         "key": 'S',
         "bgImage": '',
         'quote': "you're twentyyy",
-        "sound": ''
+        "sound": '20.mp3'
     },
     {
         "id": 5,
         "key": 'D',
         "bgImage": '',
         'quote': "dude he's flirting",
-        "sound": ''
+        "sound": 'flirting.mp3'
     },
     {
         "id": 6,
         "key": 'Z',
         "bgImage": '',
         'quote': 'and I oop-',
-        "sound": ''
+        "sound": 'and_i_oop.mp3'
     },
     {
         "id": 7,
         "key": 'X',
         "bgImage": '',
         'quote': "That's suspicious",
-        "sound": ''
+        "sound": 'sus.mp3'
     },
     {
         "id": 8,
         "key": 'C',
         "bgImage": '',
         'quote': 'Is it say yes to the dress',
-        "sound": ''
+        "sound": 'sayyes.mp3'
     }
 ]
